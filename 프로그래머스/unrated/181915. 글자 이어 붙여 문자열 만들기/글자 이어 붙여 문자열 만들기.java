@@ -4,9 +4,6 @@ class Solution {
         
         char[] cArr = my_string.toCharArray();
 		
-		System.out.println(index_list.length);
-		System.out.println(cArr.length);
-		
 		StringBuffer sb = new StringBuffer();
 		
 		for(int i=0; i<index_list.length; i++) {
